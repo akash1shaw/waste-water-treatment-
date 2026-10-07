@@ -1,0 +1,10 @@
+SLAVE:
+INPUT: _4710yhg.inm
+MODNAME: apmain
+RUNID: _4710yhg
+NEW_RUNID: _4710yhg
+OLD_RUNID: _4710yhg
+PDF: _4710yhg.appdf
+USERNAME: akash kumar shaw
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+DBCONN: _4710yhg.ads
